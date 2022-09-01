@@ -1,7 +1,9 @@
 name: Deploy to heroku.
+
 on:
   push:
     branches: [main]
+
 jobs:
   build:
     runson: ubuntu-latest
