@@ -4,7 +4,7 @@ numpy
 pandas
 sklearn
 seaborn
-matplolib
+matplotlib
 
 
 
