@@ -2,7 +2,7 @@
 
 1. [Github](https://github.com)
 2. [Heroku](https://heroku.com)
-3. [VS Code]
+3. [VS Code](https://code.visualstudio.com)
 
 - create a virtual environment
 ```
